@@ -1,0 +1,10 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["jenkinsapp"],
+    "directoryPath": "../../",
+    "jhipsterVersion": "8.1.0",
+    "jwtSecretKey": "N2VjZGU0OGEwMmU5YjBiN2Y4NzFiM2ViZDNmNjJkZWNhYzM2MGVhNzgzZGZiNDdhZDE5NjM4OGYzYTBlOGQ2YzhhMDBjN2Q0NjFkNmEzNWQ0MDRiZjgzMzYyNTI0YThlNjc3Mg==",
+    "monitoring": "no",
+    "serviceDiscoveryType": "no"
+  }
+}
