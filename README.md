@@ -1,0 +1,2 @@
+# Jenkins_JHipster_project
+Jenkins_JHipster_project
